@@ -1,10 +1,11 @@
 # mulukenapp
 
-A new Flutter project.
+A new Flutter project.which is done by Henok Girma and Muluken Demis together for their mobile programming group adssighments which is build in flutter framwork for android devices.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
