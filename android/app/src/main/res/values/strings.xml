@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+<string name="app_name">mullerfirstapp</string>
+<string name="facebook_app_id">887603025770115</string>
+<string name="fb_login_protocol_scheme">fb887603025770115</string>
+<string name="facebook_client_token">68dc1f8c0aec07efefe91ea37619a5c6</string>
+
+
+</resource>
